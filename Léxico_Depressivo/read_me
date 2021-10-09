@@ -1,2 +1,8 @@
 Léxico de sinais de possível sintomas depressivos, traduzidos do Léxico presente em Yazdavar et. al. (2017)
-Amir Hossein Yazdavar, Hussein S. Al-Olimat, Monireh Ebrahimi, Goonmeet Bajaj, Tanvi Banerjee, Krishnaprasad Thirunarayan, Jyotishman Pathak, and Amit Sheth. 2017. Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media. In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17), Jana Diesner, Elena Ferrari, and Guandong Xu (Eds.). ACM, New York, NY, USA, 1191-1198. DOI: https://doi.org/10.1145/3110025.3123028
+@inproceedings{yazdavar2017semi,
+  title={Semi-supervised approach to monitoring clinical depressive symptoms in social media},
+  author={Yazdavar, Amir Hossein and Al-Olimat, Hussein S and Ebrahimi, Monireh and Bajaj, Goonmeet and Banerjee, Tanvi and Thirunarayan, Krishnaprasad and Pathak, Jyotishman and Sheth, Amit},
+  booktitle={Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017},
+  pages={1191--1198},
+  year={2017}
+}
